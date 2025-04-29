@@ -1,8 +1,8 @@
-## Experiment No: 1d – Conditional Statements- Checking Vowel or not
+## Experiment No: 1d – Conditional Statements- Checking Leap or not
 
 ## AIM  
 
-To Write a Python program to check whether the given character is a vowel or not using if..else statement
+To Write a Python program to check whether the given year is a leap or not using if..else statement
 
 ## ALGORITHM  
 
